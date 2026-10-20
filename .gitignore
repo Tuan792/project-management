@@ -7,3 +7,5 @@ target/
 .vscode/
 .DS_Store
 docker-compose.yml
+application.properties
+application.yml

@@ -5,6 +5,7 @@ target/
 *.log
 .idea/
 .vscode/
+resources/
 .DS_Store
 docker-compose.yml
 application.properties
